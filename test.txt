@@ -1,0 +1,15 @@
+zebra
+apple
+year
+beer
+cat
+tiger
+lion
+bird
+ant
+orange
+dolphine
+shark
+wolf
+penguine
+cheetah
